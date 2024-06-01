@@ -1,0 +1,22 @@
+{
+  "name": "songauditor",
+  "version": "1.0.0",
+  "description": "Quickly audit and organize a folder of songs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeramy-dext/songAuditor.git"
+  },
+  "author": "Jeramy Dichiera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeramy-dext/songAuditor/issues"
+  },
+  "homepage": "https://github.com/jeramy-dext/songAuditor#readme",
+  "devDependencies": {
+    "electron": "^30.0.9"
+  }
+}
